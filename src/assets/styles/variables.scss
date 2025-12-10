@@ -1,0 +1,35 @@
+$primary-color: #409efe; //主题色
+$text-color: #303133; //主要文字颜色
+$text-color-secondary: #909399; //次要文字颜色
+$border-color: #e4e7ed; //边框颜色
+$background-color: #f5f7fa; //背景色
+$success-color: #67c23a; // 成功色 - 绿色系
+$warning-color: #e6a23c; // 警告色 - 橙色系
+$danger-color: #ff0000; // 错误色 - 红色系
+$white: #ffffff; // 添加白色变量
+
+// 字体大小
+$font-size-small: 12px;
+$font-size-base: 14px;
+$font-size-large: 16px;
+$font-size-extra-large: 18px;
+
+// 字体粗细
+$font-weight-normal: 400;
+$font-weight-bold: 700;
+
+// 间距
+$spacing-xs: 4px;
+$spacing-sm: 8px;
+$spacing-md: 12px;
+$spacing-lg: 16px;
+$spacing-xl: 20px;
+
+// 圆角
+$border-radius-small: 2px;
+$border-radius-base: 4px;
+$border-radius-large: 8px;
+
+// 阴影
+$box-shadow-base: 0 2px 4px rgba(0, 0, 0, 0.12);
+$box-shadow-dark: 0 2px 8px rgba(0, 0, 0, 0.15);
